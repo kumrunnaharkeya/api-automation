@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1539" started-at="2016-12-09T10:43:55Z" finished-at="2016-12-09T10:43:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1539" started-at="2016-12-09T10:43:55Z" finished-at="2016-12-09T10:43:56Z">
+      <class name="testExecution.AccountDetailTest">
+        <test-method status="PASS" signature="verifyAccountDetails()[pri:0, instance:testExecution.AccountDetailTest@60f82f98]" name="verifyAccountDetails" duration-ms="1524" started-at="2016-12-09T16:43:55Z" finished-at="2016-12-09T16:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountDetails -->
+      </class> <!-- testExecution.AccountDetailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
